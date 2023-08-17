@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Swift**
 
-- 📫 How to reach me **nicksouilemezis@gmail.com**
+- 📫 My Email: **nicksouilemezis@gmail.com**
 
 - ⚡ Fun fact **I consumed about 483 coffees**
 
