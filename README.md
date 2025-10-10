@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **C++ and Swift**
+- 🌱 I’m currently learning **C/C++ and Swift**
 
 - 📫 My Email: **nicksouilemezis@gmail.com**
 
